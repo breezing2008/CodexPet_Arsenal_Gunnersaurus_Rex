@@ -1,0 +1,5 @@
+# macOS metadata / macOS 元数据
+.DS_Store
+
+# Local Codex state is intentionally not published / 本地 Codex 状态不发布
+.codex/
