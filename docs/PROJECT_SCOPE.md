@@ -10,10 +10,11 @@ The repository contains the final Codex v2 animation atlas, a pet manifest, GIF 
 
 | Atlas row / 精灵图行 | English | 中文 |
 | --- | --- | --- |
-| 0 | Idle with low-frequency breathing, claw flex, and toe/weight shift | 带低频呼吸、手爪收放、脚尖/重心变化的待机 |
+| 0 | Livelier low-frequency idle: breathing, body bob, chest-height claw lifts, and toe/weight shifts | 更有生命力的低频待机：呼吸、身体轻摆、抬至胸前的手爪收放与脚尖/重心变化 |
 | 1 | Move right while dribbling one ball | 向右贴地带球 |
 | 2 | Move left while dribbling one ball | 向左贴地带球 |
-| 3–6, 8 | Waving, jumping, failed, waiting, review | 挥手、跳跃、失败、等待、复核 |
+| 3–5, 8 | Waving, jumping, failed, review | 挥手、跳跃、失败、复核 |
+| 6 | Needs-user-input alert: looping two-arm wave and jump for approval, permission, answer, or decision | 需要用户介入提醒：等待批准、权限、回答或选择时循环双臂挥舞与跳跃 |
 | 7 | Working loop with one-ball juggling | 工作时的单球颠球循环 |
 | 9–10 | Sixteen look directions | 十六个注视方向 |
 
@@ -25,6 +26,6 @@ This project publishes final derived pet assets only. It intentionally excludes 
 
 ## Acceptance record / 验收记录
 
-The spritesheet was deterministically assembled, chroma-edge despilled, and validated as a Codex v2 8 × 11 atlas. Motion previews were reviewed for the requested idle, juggling, and dribbling semantics.
+The spritesheet was deterministically assembled, chroma-edge despilled, and validated as a Codex v2 8 × 11 atlas. Motion previews were reviewed for the requested idle, needs-user-input alert, juggling, and dribbling semantics.
 
-精灵图已通过确定性装配、色键边缘去溢色与 Codex v2 的 8 × 11 图集校验。动作示意已针对所需的待机律动、颠球与带球语义进行检查。
+精灵图已通过确定性装配、色键边缘去溢色与 Codex v2 的 8 × 11 图集校验。动作示意已针对所需的待机律动、需要用户介入提醒、颠球与带球语义进行检查。
